@@ -1,19 +1,5 @@
-Computing Assignments Repository
-This repository contains a collection of Python assignments, also known as "Sobs" (Student Objects), completed during the first year of my Electrical Engineering degree program. 
-These assignments were integral to the Computing module, designed to develop fundamental programming skills and problem-solving abilities.
+Python assignments from my first-year Computing module in Electrical Engineering. Includes 'Sobs' (Student Objects) demonstrating core programming concepts, problem-solving, and computational thinking in engineering contexts. 
 
-Contents
-The repository includes various Python scripts that demonstrate:
-Implementation of core programming concepts
-Solution of engineering-related problems
-Application of computational thinking in electrical engineering contexts
+These assignments were crucial for the Computing course at Middlesex University, laying the foundation for advanced programming in later years. 
 
-Purpose
-These assignments served as a crucial component in successfully completing the Computing course, laying a solid foundation for more advanced programming and computational tasks in subsequent years of study.
-Academic Context
-Course: Computing
-Program: Electrical Engineering
-Academic Year: First Year
-Institution: [Middlesex University]
-
-This collection showcases the progression of my programming skills and serves as a reference for future coursework and projects in the field of Electrical Engineering.
+This repository showcases my early programming skills and serves as a reference for future work in Electrical Engineering
