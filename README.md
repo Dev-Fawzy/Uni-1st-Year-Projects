@@ -1,5 +1,5 @@
-Python assignments from my first-year Computing module in Electrical Engineering. Includes 'Sobs' (Student Objects) demonstrating core programming concepts, problem-solving, and computational thinking in engineering contexts. 
+Hey, so these are my Python assignments from my first year in Electrical Engineering. We had to do these things called 'Sobs' (Student Objects) which were basically about learning how to code and solve problems.
 
-These assignments were crucial for the Computing course at Middlesex University, laying the foundation for advanced programming in later years. 
+It was for this Computing class at Middlesex Uni, and it was pretty important cuz it's gonna help with the harder stuff later on.
 
-This repository showcases my early programming skills and serves as a reference for future work in Electrical Engineering
+I'm just putting all this here to show what I've learned so far and maybe look back at it when I'm doing more advanced stuff in Electrical Engineering. Pretty cool, right?
